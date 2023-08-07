@@ -59,9 +59,9 @@
     "html-loader": "2.1.2",
     "html-webpack-plugin": "5.3.2",
     "prettier": "2.3.2",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-is": "^17.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-is": "^18.2.0",
     "reshake": "1.2.3",
     "rimraf": "3.0.2",
     "rollup": "2.52.8",
@@ -75,9 +75,9 @@
     "webpack-dev-server": "3.11.2"
   },
   "peerDependencies": {
-    "react": "^16.3.0 || ^17.0.0-0 || ^18.0.0-0",
-    "react-dom": "^16.3.0 || ^17.0.0-0 || ^18.0.0-0",
-    "react-is": "^16.8 || ^17.0.0-0 || ^18.0.0-0",
+    "react": "^18.0.0-0",
+    "react-dom": "^18.0.0-0",
+    "react-is": "^18.0.0-0",
     "styled-components": "^4.0.0 || ^5.0.0"
   },
   "dependencies": {
@@ -87,7 +87,7 @@
     "lodash.debounce": "4.0.8",
     "lodash.pick": "4.4.0",
     "prop-types": "15.7.2",
-    "react-focus-lock": "2.5.2",
+    "react-focus-lock": "^2.9.5",
     "scroll-smooth": "1.1.1",
     "scrollparent": "2.0.1"
   }
